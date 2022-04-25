@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaLaptopCode className="about__icon" />
               <h5>Experience</h5>
-              <small>-- -- --</small>
+              <small>1+ years in IT</small>
             </article>
 
             <article className="about__card">
@@ -38,7 +38,19 @@ const About = () => {
               <small>5+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>I am an energetic, ambitious person
+who has developed a mature and
+responsible approach to any task that
+I undertake, or situation that I am
+presented with. I have good personal
+experience in web development,
+strongly updated every day with new
+ideas and practical skills.</p>
+          <p>I am currently looking for an
+opportunity to utilize my technical skills
+in a challenging working environment
+and become a valuable asset to the
+organization that I work for.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

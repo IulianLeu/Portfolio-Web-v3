@@ -17,28 +17,24 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Designing websites and apps with Figma</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Clear minimalistic interface for any user</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Fully transparent to client wishes</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Perfect visual illustration of future projects</p>
             </li>
 
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
-            </li>
           </ul>
         </article>
         {/*END OF UI/UX*/}
@@ -51,32 +47,32 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Front-End Development</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Basic Back-End Development</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Clean and readable code</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Perfectly optimized website for all devices</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Debugging and testing</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Connecting all things together</p>
             </li>
           </ul>
         </article>
@@ -90,28 +86,24 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Adding any kind of content on your website or app</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Editing any kind of content on your website or app</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Personal Dashboard for simplicity of work with data</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
+              <p>Helpful tools to manage your website or app</p>
             </li>
 
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>lorem ipsum dolor sit amet, consectet</p>
-            </li>
           </ul>
         </article>
         {/*END OF CONTENT CREATION*/}
